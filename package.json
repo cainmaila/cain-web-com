@@ -1,6 +1,6 @@
 {
   "name": "cain-web-com",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cain web commander",
   "main": "cain-web-com.js",
   "bin": { "cain-web-com" : "./cain-web-com.js" },

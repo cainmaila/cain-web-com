@@ -1,9 +1,9 @@
 {
   "name": "cain-web-com",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cain web commander",
   "main": "cain-web-com.js",
-  "bin": { "cain-web-com" : "./cain-web-com.js" },
+  "bin": { "cainweb" : "./cain-web-com.js" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
